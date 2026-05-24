@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="52mm"
+   viewBox="0 0 210 52"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="drawing2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.53326466"
+     inkscape:cx="272.84763"
+     inkscape:cy="95.637315"
+     inkscape:window-width="1128"
+     inkscape:window-height="683"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter15"
+       inkscape:label="filter1">
+      <feOffset
+         dx="14"
+         dy="0"
+         id="feOffset15" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="use7-0"
+       transform="translate(-41.180891,153.94)" />
+    <g
+       id="g1"
+       transform="translate(-5.2916669,-5.2916669)">
+      <g
+         id="g5"
+         transform="translate(-22.465051,-17.902077)">
+        <rect
+           style="fill:#0072ee;fill-opacity:1;stroke-width:0.359584"
+           id="rect1"
+           width="44.808422"
+           height="35.341354"
+           x="46.254345"
+           y="32.050461"
+           transform="matrix(1,0,-0.16492683,0.98630581,0,0)" />
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.7042px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.915084;stroke-dasharray:none;stroke-opacity:1"
+           x="-54.291401"
+           y="-55.191116"
+           id="text1"
+           transform="matrix(0.23247869,-1.1934452,-0.8347614,-0.01616498,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan1"
+             x="-54.291401"
+             y="-55.191116"
+             style="stroke:none;stroke-width:0.915084">λ</tspan></text>
+      </g>
+      <g
+         id="g17">
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.8425px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.746125px;writing-mode:lr-tb;direction:ltr;fill:#0072ee;fill-opacity:1;stroke:#ffffff;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+           x="78.527451"
+           y="26.404638"
+           id="text2-7"
+           transform="matrix(0.93739838,0,-0.06686029,1.0667823,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan11"
+             x="78.527451"
+             y="26.404638"
+             style="letter-spacing:0.746125px">UNITED</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.8425px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.396875px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#0072ee;fill-opacity:1;stroke:#ffffff;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+           x="74.473907"
+           y="42.170059"
+           id="text2-7-2"
+           transform="matrix(0.93739838,0,-0.06686029,1.0667823,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan13"
+             x="74.473907"
+             y="42.170059">PREPROCESSOR</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.8425px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.396875px;writing-mode:lr-tb;direction:ltr;fill:#0072ee;fill-opacity:1;stroke:#ffffff;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+           x="173.94331"
+           y="41.966221"
+           id="text2-7-2-9"
+           transform="matrix(0.93739838,0,-0.06686029,1.0667823,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan14"
+             x="173.94331"
+             y="41.966221"
+             style="letter-spacing:-0.396875px">SYSTEM</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.8421px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono, Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.66675px;writing-mode:lr-tb;direction:ltr;fill:#0072ee;fill-opacity:1;stroke:#ffffff;stroke-width:0.0999975;stroke-dasharray:none;stroke-opacity:1"
+           x="142.19917"
+           y="26.168243"
+           id="text2-7-2-9-4"
+           transform="matrix(0.9374142,0,-0.06686141,1.0667643,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan15"
+             x="142.19917"
+             y="26.168243"
+             style="letter-spacing:0.66675px;stroke-width:0.0999975">SCHEME</tspan></text>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.585156;stroke-dasharray:none;stroke-opacity:1"
+           id="rect16"
+           width="137.52156"
+           height="0.072876647"
+           x="68.811737"
+           y="31.136261" />
+        <g
+           id="g16"
+           transform="translate(41.399707,-44.932767)"
+           style="stroke-width:0.6;stroke-dasharray:none">
+          <ellipse
+             style="fill:none;fill-opacity:1;stroke:#2d8bf1;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:0.972549"
+             id="path16"
+             cx="154.67458"
+             cy="66.922028"
+             rx="4.5634093"
+             ry="4.4580107" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.65527px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans, @opsz=32,wght=100';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 100;letter-spacing:-0.248154px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#0072ee;fill-opacity:1;stroke:#2d8bf1;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:0.972549"
+             x="147.88797"
+             y="74.955956"
+             id="text16"
+             transform="matrix(1.0787675,0,-0.0986694,0.9269838,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan16"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.65527px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans, @opsz=32,wght=100';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 100;fill:#0072ee;fill-opacity:1;stroke:#2d8bf1;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:0.972549"
+               x="147.88797"
+               y="74.955956">λ</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
